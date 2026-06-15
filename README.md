@@ -1,7 +1,7 @@
 # ShiftSync Core
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JDK 26](https://img.shields.io/badge/JDK_26-FF5733?style=for-the-badge&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/Java-JDK_26-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-eaeaea.svg?style=for-the-badge&logo=angular&logoColor=red)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-000000.svg?style=for-the-badge&logo=cursor&logoColor=white)
 
