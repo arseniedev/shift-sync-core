@@ -60,9 +60,13 @@
 ## Project Structure
 
 <!-- START_STRUCTURE -->
-
 ```text
+.
+├── LICENSE
+├── README.md
+└── structure.txt
 
+1 directory, 3 files
 ```
 <!-- END_STRUCTURE -->
 
