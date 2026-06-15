@@ -1,7 +1,8 @@
 # ShiftSync Core
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JDK 26](https://img.shields.io/badge/JDK_26-007396?style=for-the-badge&logo=java&logoColor=white)
-![JUnit5](https://img.shields.io/badge/JUnit5-%2325A162.svg?style=for-the-badge&logo=junit5&logoColor=white)
+![JDK 26](https://img.shields.io/badge/JDK_26-FF5733?style=for-the-badge&logo=java&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-eaeaea.svg?style=for-the-badge&logo=angular&logoColor=red)
+![MySQL](https://img.shields.io/badge/MySQL-00758F.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-000000.svg?style=for-the-badge&logo=cursor&logoColor=white)
 
 > A lightweight workforce scheduling system that streamlines staff management, shift allocation, and roster communication. It gives admins full control over shift creation and approvals, while providing staff with a clear, accessible view of their schedules and requests.
